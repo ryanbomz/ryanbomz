@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riyan Hidayatulloh</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ryanbomz/ryanbomz/dbfa84f26eb8f7129c5d7d35f4ebaac667f71ace/banner.png"> </div>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gi](https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47ttckdmtypp2bzt4mecywm6mod5vacae64odkbwo6&ep=v1_gifs_related&rid=giphy.gif&ct=g)f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbomz&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbomz" /> </p>
 
 - 🌱 I’m currently learning **CSS, Javascript, Veu.Js**

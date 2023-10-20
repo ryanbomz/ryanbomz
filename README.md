@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyan Hidayatulloh</h1>
+<div align="center"> <img src="[https://raw.githubusercontent.com//ryanbomz/ryanbomz/blob/main/banner.png](https://raw.githubusercontent.com/ryanbomz/ryanbomz/dbfa84f26eb8f7129c5d7d35f4ebaac667f71ace/banner.png)"> </div>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbomz&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbomz" /> </p>
